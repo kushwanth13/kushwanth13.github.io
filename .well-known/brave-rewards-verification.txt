@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: kushwanth13.github.io
-Token: 7700224a3ca04d7dedb2779be3f99efa587417c72f4c01e777b17b004a55485d
